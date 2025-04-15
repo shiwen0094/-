@@ -1,0 +1,520 @@
+ {
+    "country": {
+      "_id": "64e4f52b77a3256e2e3d495c",
+      "ip_address": "34.150.13.170",
+      "name": "United States",
+      "isoCode": "US",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "North America"
+    },
+    "servers": [
+      {
+        "_id": "64e8d756b3ca669e87304463",
+        "name": "Newyork",
+        "ipAddress": "159.89.182.77",
+        "sharedSecret": "fn2TYGZ32HGXg8hUCGH4",
+        "password": "ZuaDf6EXXdtv7Fik",
+        "created_at": "2023-08-25T16:31:18.193Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e4f52b77a3256e2e3d495c",
+          "ip_address": "34.150.13.170",
+          "name": "United States",
+          "isoCode": "US",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "North America"
+        },
+        "__v": 2,
+        "description": "Top-tier server for premium VPN experiences.",
+        "tags": [
+          "BBC iPlayer"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_TOP_TIER"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "64e8d14ce87a2f653d6486aa",
+      "ip_address": "174.138.28.212",
+      "name": "Germany",
+      "isoCode": "DE",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Europe"
+    },
+    "servers": [
+      {
+        "_id": "64e8d159e6bfaba5f6b71bb7",
+        "name": "Frankfurt",
+        "ipAddress": "142.93.164.36",
+        "sharedSecret": "XbvtX8voanpNLMEN4jV9",
+        "password": "Um43abz6pmSoYJSb",
+        "created_at": "2023-08-25T16:05:45.892Z",
+        "isFree": true,
+        "country": {
+          "_id": "64e8d14ce87a2f653d6486aa",
+          "ip_address": "174.138.28.212",
+          "name": "Germany",
+          "isoCode": "DE",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 2,
+        "description": "Stable server for uninterrupted VPN usage.",
+        "tags": [
+          "Amazon Prime"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_STABLE"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "64e8d3c6e87a2f653d6486ad",
+      "ip_address": "167.99.212.123",
+      "name": "Netherlands",
+      "isoCode": "NL",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Europe"
+    },
+    "servers": [
+      {
+        "_id": "64e8d5573445c1680f94c2d1",
+        "name": "Amsterdam",
+        "ipAddress": "167.99.212.123",
+        "sharedSecret": "wsmEseufnS7aBY4DzF2C",
+        "password": "9VtJFSve6dNWMxy9",
+        "created_at": "2023-08-25T16:22:47.213Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e8d3c6e87a2f653d6486ad",
+          "ip_address": "167.99.212.123",
+          "name": "Netherlands",
+          "isoCode": "NL",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 2,
+        "description": "Stable server for uninterrupted VPN usage.",
+        "tags": [
+          "Netflix",
+          "Hulu",
+          "Brazzers"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_STABLE"
+      },
+      {
+        "_id": "673a187f42ca9d753c0f5cf2",
+        "name": "Rotterdam",
+        "ipAddress": "167.99.212.123",
+        "sharedSecret": "wsmEseufnS7aBY4DzF2C",
+        "password": "9VtJFSve6dNWMxy9",
+        "created_at": "2023-08-25T16:22:47.213Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e8d3c6e87a2f653d6486ad",
+          "ip_address": "167.99.212.123",
+          "name": "Netherlands",
+          "isoCode": "NL",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 1,
+        "description": "Low latency server suitable for online gaming.",
+        "tags": [
+          "Netflix",
+          "Disney+"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_LOW_LATENCY"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "64e8d3dee87a2f653d6486ae",
+      "ip_address": "170.64.192.158",
+      "name": "Australia",
+      "isoCode": "AU",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Australia"
+    },
+    "servers": [
+      {
+        "_id": "64e8d5573445c1680f94c2d3",
+        "name": "Sydney",
+        "ipAddress": "170.64.192.158",
+        "sharedSecret": "y4ZkWEZd8naCbBEfoL8Y",
+        "password": "rnSKn7wEdqVu8UG8",
+        "created_at": "2023-08-25T16:22:47.215Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e8d3dee87a2f653d6486ae",
+          "ip_address": "170.64.192.158",
+          "name": "Australia",
+          "isoCode": "AU",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Australia"
+        },
+        "__v": 2,
+        "description": "Low latency server suitable for online gaming.",
+        "tags": [
+          "Privacy"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_LOW_LATENCY"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "64e8d3fee87a2f653d6486af",
+      "ip_address": "143.244.128.248",
+      "name": "India",
+      "isoCode": "IN",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Asia"
+    },
+    "servers": [
+      {
+        "_id": "64e8d5573445c1680f94c2d5",
+        "name": "Bangalore",
+        "ipAddress": "143.244.128.248",
+        "sharedSecret": "Dpqzjo5vHJ3ZTDM5qM7w",
+        "password": "JYswPT3Ys9CexTxn",
+        "created_at": "2023-08-25T16:22:47.215Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e8d3fee87a2f653d6486af",
+          "ip_address": "143.244.128.248",
+          "name": "India",
+          "isoCode": "IN",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Asia"
+        },
+        "__v": 2,
+        "description": "Stable server for uninterrupted VPN usage.",
+        "tags": [
+          "Privacy",
+          "Crunchyroll",
+          "Disney+"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_STABLE"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "64e8d444e87a2f653d6486b0",
+      "ip_address": "165.227.32.35",
+      "name": "Canada",
+      "isoCode": "CA",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "North America"
+    },
+    "servers": [
+      {
+        "_id": "64e8d756b3ca669e87304467",
+        "name": "Toronto",
+        "ipAddress": "165.227.32.35",
+        "sharedSecret": "Vwv5tZtyGwmw6Yp24r4L",
+        "password": "sR5e56q3opimHXFw",
+        "created_at": "2023-08-25T16:31:18.195Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e8d444e87a2f653d6486b0",
+          "ip_address": "165.227.32.35",
+          "name": "Canada",
+          "isoCode": "CA",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "North America"
+        },
+        "__v": 2,
+        "description": "Secure server ensuring your privacy and anonymity.",
+        "tags": [
+          "Amazon Prime",
+          "Crunchyroll",
+          "Security"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_SECURE"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "64e8d452e87a2f653d6486b1",
+      "ip_address": "142.93.45.76",
+      "name": "United Kingdom",
+      "isoCode": "GB",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Europe"
+    },
+    "servers": [
+      {
+        "_id": "64e8d756b3ca669e87304465",
+        "name": "London",
+        "ipAddress": "142.93.45.76",
+        "sharedSecret": "TPv7ssApzdSwn8cfy79u",
+        "password": "xuDHPepp8YTjatgp",
+        "created_at": "2023-08-25T16:31:18.195Z",
+        "isFree": false,
+        "country": {
+          "_id": "64e8d452e87a2f653d6486b1",
+          "ip_address": "142.93.45.76",
+          "name": "United Kingdom",
+          "isoCode": "GB",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 2,
+        "description": "Top-tier server for premium VPN experiences.",
+        "tags": [
+          "Amazon Prime"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_TOP_TIER"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "65a929dbfec2553d163e6604",
+      "ip_address": "34.150.13.170",
+      "name": "Hong Kong",
+      "isoCode": "HK",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Asia"
+    },
+    "servers": [
+      {
+        "_id": "65a92a03fec2553d163e6606",
+        "name": "Beijing",
+        "ipAddress": "34.150.13.170",
+        "sharedSecret": "m89xtBRs6Yevznjo4EA7",
+        "password": "9EDehXjFCEaYwMkn",
+        "created_at": "2023-08-25T16:31:18.193Z",
+        "isFree": false,
+        "country": {
+          "_id": "65a929dbfec2553d163e6604",
+          "ip_address": "34.150.13.170",
+          "name": "Hong Kong",
+          "isoCode": "HK",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Asia"
+        },
+        "__v": 2,
+        "description": "Optimized for high bandwidth activities.",
+        "tags": [
+          "Amazon Prime",
+          "Torrenting",
+          "Brazzers"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_TOP_TIER"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "6700128d47da981ac122beec",
+      "ip_address": "172.232.152.199",
+      "name": "Sweden",
+      "isoCode": "SE",
+      "created_at": "2024-10-04T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Europe"
+    },
+    "servers": [
+      {
+        "_id": "6700193947da981ac122bf0f",
+        "name": "Stockholm",
+        "ipAddress": "172.232.152.199",
+        "sharedSecret": "9GMniR9SM5i29pfxjw4z",
+        "password": "kXNDMdUDsAT63PJB",
+        "created_at": "2024-10-04T16:31:18.193Z",
+        "isFree": false,
+        "country": {
+          "_id": "6700128d47da981ac122beec",
+          "ip_address": "172.232.152.199",
+          "name": "Sweden",
+          "isoCode": "SE",
+          "created_at": "2024-10-04T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 2,
+        "description": "Enhanced security features for your protection.",
+        "tags": [
+          "Netflix",
+          "Brawl Stars"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_ENHANCED_SEC"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "6700156d47da981ac122befc",
+      "ip_address": "172.232.216.43",
+      "name": "Italia",
+      "isoCode": "IT",
+      "created_at": "2024-10-04T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Europe"
+    },
+    "servers": [
+      {
+        "_id": "670015b547da981ac122bf01",
+        "name": "Rome",
+        "ipAddress": "172.232.216.43",
+        "sharedSecret": "sNCeHLEeLEchLVWt9gsh",
+        "password": "oyYzg3UxuUckGuYR",
+        "created_at": "2024-10-04T16:31:18.193Z",
+        "isFree": false,
+        "country": {
+          "_id": "6700156d47da981ac122befc",
+          "ip_address": "172.232.216.43",
+          "name": "Italia",
+          "isoCode": "IT",
+          "created_at": "2024-10-04T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 2,
+        "description": "High-speed server optimized for streaming and gaming.",
+        "tags": [
+          "Gaming",
+          "Disney+"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_HIGH_SPEED"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "6700188647da981ac122bf06",
+      "ip_address": "172.232.50.4",
+      "name": "France",
+      "isoCode": "FR",
+      "created_at": "2024-10-04T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Europe"
+    },
+    "servers": [
+      {
+        "_id": "670018e247da981ac122bf09",
+        "name": "Paris",
+        "ipAddress": "172.232.50.4",
+        "sharedSecret": "TjzK5vUXJ6JyFTBpGwCx",
+        "password": "z2eMHkq4iNdc3WA8",
+        "created_at": "2024-10-04T16:31:18.193Z",
+        "isFree": false,
+        "country": {
+          "_id": "6700188647da981ac122bf06",
+          "ip_address": "172.232.50.4",
+          "name": "France",
+          "isoCode": "FR",
+          "created_at": "2024-10-04T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Europe"
+        },
+        "__v": 2,
+        "description": "High-speed server optimized for streaming and gaming.",
+        "tags": [
+          "HBO Max",
+          "Brawl Stars",
+          "Brazzers"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_HIGH_SPEED"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "6700196847da981ac122bf11",
+      "ip_address": "172.233.1.160",
+      "name": "Brasil",
+      "isoCode": "BR",
+      "created_at": "2024-10-04T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "South America"
+    },
+    "servers": [
+      {
+        "_id": "670019a247da981ac122bf14",
+        "name": "Sao Paulo",
+        "ipAddress": "172.233.1.160",
+        "sharedSecret": "vJvcgHzovjoEUMYuqkS6",
+        "password": "5yunFRHPbeJ5Mbmi",
+        "created_at": "2024-10-04T16:31:18.193Z",
+        "isFree": false,
+        "country": {
+          "_id": "6700196847da981ac122bf11",
+          "ip_address": "172.233.1.160",
+          "name": "Brasil",
+          "isoCode": "BR",
+          "created_at": "2024-10-04T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "South America"
+        },
+        "__v": 2,
+        "description": "Ideal for both streaming and torrenting.",
+        "tags": [
+          "BBC iPlayer"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_IDEAL_BOTH"
+      }
+    ]
+  },
+  {
+    "country": {
+      "_id": "672f07041f1c1b805daf2769",
+      "ip_address": "174.138.28.212",
+      "name": "Singapore",
+      "isoCode": "SG",
+      "created_at": "2023-09-25T16:54:40.000Z",
+      "connectionCount": 0,
+      "continent": "Asia"
+    },
+    "servers": [
+      {
+        "_id": "65035cae417e98da024b5f90",
+        "name": "Singapore - 1",
+        "ipAddress": "174.138.28.212",
+        "sharedSecret": "tnP9o5nWkkePZnHt5Wdn",
+        "password": "rpZMErA6Xuypb7hZ",
+        "created_at": "2023-08-25T15:58:19.741Z",
+        "isFree": false,
+        "country": {
+          "_id": "672f07041f1c1b805daf2769",
+          "ip_address": "174.138.28.212",
+          "name": "Singapore",
+          "isoCode": "SG",
+          "created_at": "2023-09-25T16:54:40.000Z",
+          "connectionCount": 0,
+          "continent": "Asia"
+        },
+        "__v": 2,
+        "description": "Secure server ensuring your privacy and anonymity.",
+        "tags": [
+          "Brazzers",
+          "Crunchyroll"
+        ],
+        "descriptionKey": "SERVER_DESCRIPTION_SECURE"
+      }
+    ]
+  }
+]
